@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handyman-service-austin-tx.netlify.app/sitemap.xml
